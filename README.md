@@ -2,7 +2,9 @@
 <h1 align="center">HI, I'm <a href="https://www.linkedin.com/in/javierpradalperez/">Javi!</a> 👋</h1>
 </div> 
 
-<img src="https://i.imgur.com/weNbhGZ.pn">
+<div align="center">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+</div> 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
