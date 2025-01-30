@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">HI, I'm <a href="www.linkedin.com/in/javierpradalperez">Javi!</a> 👋</h1>
+<h1 align="center">HI, I'm <a href="https://www.linkedin.com/in/javierpradalperez/">Javi!</a> 👋</h1>
 </div> 
 
 <img src="https://i.imgur.com/weNbhGZ.pn">
@@ -7,7 +7,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/javierpradalperez/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierpradalperez/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradaljavier@gmail.com)
   <a href="https://www.datacamp.com/portfolio/hentaimajingaijn" target="_blank">
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
