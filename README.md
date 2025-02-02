@@ -77,9 +77,8 @@
 ## About me
 
 - ⭐Problem Solver⭐ 
-- 📲 Data Analyst with experience in sales and finance, conducting data analysis at Decathlon and IKEA, managing over €1M in revenue
-- 🎥 Proficient in Python, SQL, Power BI, Tableau, and Excel, with knowledge of BigQuery and Google Cloud for advanced analytics
-- Specialized in Data Science and Machine Learning, applying predictive models and statistical analysis for decision-making
+- 📲 Data Analyst with experience in sales and finance at Decathlon and IKEA, managing over €1M in revenue
+- 🎥 Specialized in Data Science and Machine Learning, applying predictive models and statistical analysis for decision-making
 - 📗 Background in interior design, architecture, and game development, with experience in Java and Unity programming
 - 🧑‍🏫 Strong interest in markets and finance, with self-taught expertise in trend analysis and financial strategies
 <br>
