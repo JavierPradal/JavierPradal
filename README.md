@@ -74,9 +74,8 @@
 
 &emsp;
 
-## About me
 
-- ⭐Problem Solver⭐ 
+## ⭐Problem Solver⭐ 
 - 📲 Data Analyst with experience in sales and finance at Decathlon and IKEA, managing over €1M in revenue
 - 🎥 Specialized in Data Science and Machine Learning, applying predictive models and statistical analysis for decision-making
 - 📗 Interior Designer and Architect, graduated from Elisava, and game development, bringing creativity and structural thinking
