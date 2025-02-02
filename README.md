@@ -79,7 +79,7 @@
 - ⭐Problem Solver⭐ 
 - 📲 Data Analyst with experience in sales and finance at Decathlon and IKEA, managing over €1M in revenue
 - 🎥 Specialized in Data Science and Machine Learning, applying predictive models and statistical analysis for decision-making
-- 📗 Background in interior design, architecture, and game development, with experience in Java and Unity programming
+- 📗 Background in interior design, architecture, and game development, bringing creativity and structural thinking to data analysis.
 - 🧑‍🏫 Strong interest in markets and finance, with self-taught expertise in trend analysis and financial strategies
 <br>
 
