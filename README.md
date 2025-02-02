@@ -76,15 +76,15 @@
 
 ## About me
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- ⭐Problem Solver⭐ 
+- 📲 Data Analyst with experience in sales and finance, conducting data analysis at Decathlon and IKEA, managing over €1M in revenue
+- 🎥 Proficient in Python, SQL, Power BI, Tableau, and Excel, with knowledge of BigQuery and Google Cloud for advanced analytics
+- Specialized in Data Science and Machine Learning, applying predictive models and statistical analysis for decision-making
+- 📗 Background in interior design, architecture, and game development, with experience in Java and Unity programming
+- 🧑‍🏫 Strong interest in markets and finance, with self-taught expertise in trend analysis and financial strategies
 <br>
 
-## Proyectos *bombitas*
+## DATA PROJECTS
 <table>
 <tr>
 <td width="50%">
