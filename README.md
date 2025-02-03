@@ -98,24 +98,38 @@
 
 ### 🏠 [Airbnb Analysis in Madrid](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Airbnb%20Analysis%20in%20Madrid)
 - Deep dive into the Madrid Airbnb market to analyze property pricing trends, key features influencing rent, and neighborhood demand.
-### 📦 [Amazon Charback Analysis](./Amazon_Charback_Analysis/)
+### 🏋️‍♂️ [Analysis Europe weightlifting](.https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Analysis%20Europe%20weightlifting)
+- Using statistical analysis to uncover performance trends in weightlifting, offering insight into training regimens and competition results.
+### 📦 [Amazon Charback Analysis](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Amazon%20Charback%20Analysis)
 - A project focused on analyzing Amazon customer feedback data to identify common patterns in product returns and improve customer service strategies.
 ### 🚔 [Analyzing Crime in Los Angeles](./Analyzing_Crime_in_Los_Angeles/)
 - Investigating crime rates and their relation to socio-economic factors in Los Angeles, providing actionable insights for public safety and urban planning.
 ### 🧑‍🎓 [Analyzing Students' Mental Health](./Analyzing_Students_Mental_Health/)
 - Data analysis project exploring how academic stress, peer relationships, and lifestyle impact students' mental health across various demographics.
-### 🏋️‍♂️ [Data Analysis Halterofilia](./Data_Analysis_Halterofilia/)
-- Using statistical analysis to uncover performance trends in weightlifting, offering insight into training regimens and competition results.
 ### 🏫 [Exploring NYC Public School Test Result Scores](./Exploring_NYC_Public_School_Test_Result_Scores/)
 - Analyzing the correlation between socio-economic factors and public school test scores in New York City.
 ### 🏢 [Idealista Analysis](./Idealista_Analysis/)
 - Analyzing property prices in Spain using data from Idealista, uncovering trends and opportunities for investors.
+
 ### 🎥 [Investigating Netflix Movies](./Investigating_Netflix_Movies/)
 - Analyzing the Netflix movie database to find the most popular genres, directors, and actors, and uncover trends in user ratings.
 ### 🏆 [Visualizing the History of Nobel Prize](./Visualizing_the_History_of_Nobel_Prize/)
 - Creating interactive visualizations to explore the history and trends of Nobel Prize laureates across disciplines.
 
-- 
+
+
+| 📂 Project Name  | 🔍 Description |
+|-----------------|----------------|
+| [Airbnb Analysis in Madrid](./Airbnb%20Analysis%20in%20Madrid/) | Data-driven insights on Airbnb listings in Madrid |
+| [Amazon Chargeback Analysis](./Amazon%20Charback%20Analysis/) | Analyzing chargebacks and fraud detection |
+| [Crime Analysis in LA](./Analyzing%20Crime%20in%20Los%20Angeles/) | Exploring crime trends in Los Angeles |
+| [Students' Mental Health](./Analyzing%20Students%20Mental%20Health/) | Investigating mental health factors affecting students |
+| [Weightlifting in Europe](./Analysis%20Europe%20Weightlifting/) | Visualizing weightlifting performance data |
+| [NYC Public School Test Scores](./Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/) | Analyzing educational performance in NYC |
+| [Idealista Housing Market](./Idealista%20Analysis/) | Real estate data analysis from Idealista |
+| [Netflix Movies Investigation](./Investigating%20Netflix%20Movies/) | Trends and patterns in Netflix movies |
+| [Sales Analysis - Shopping Centers](./Sales%20Analysis%20of%20Shopping%20Centers/) | Understanding sales trends in shopping malls |
+| [Nobel Prize Data Visualization](./Visualizing%20the%20History%20of%20Nobel%20Prize/) | Analyzing the history of Nobel Prize winners |
 ## 📈 GitHub Stats
 <p align="center">
   <a href="https://github.com/JavierPradal">
