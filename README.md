@@ -91,7 +91,7 @@
 |📦 [Amazon Chargeback Analysis](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Amazon%20Charback%20Analysis) | Analyzing chargebacks and fraud detection |
 |🚔 [Crime Analysis in LA](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Analyzing%20Crime%20in%20Los%20Angeles) | Exploring crime trends in Los Angeles |
 |🧑‍🎓 [Students' Mental Health](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Analyzing%20Students%27%20Mental%20Health) | Investigating mental health factors affecting students |
-|🏋️‍♂️ [Weightlifting in Europe](.https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Analysis%20Europe%20weightlifting) | Visualizing weightlifting performance data |
+|🏋️‍♂️ [Weightlifting in Europe](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Analysis%20Europe%20weightlifting) | Visualizing weightlifting performance data |
 |🏫 [NYC Public School Test Scores](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores) | Analyzing educational performance in NYC |
 |🏢  [Idealista Housing Market](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Idealista%20Analysis) | Real estate data analysis from Idealista |
 |🎥 [Netflix Movies Investigation](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Investigating_Netflix_movies)) | Trends and patterns in Netflix movies |
