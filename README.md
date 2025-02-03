@@ -92,14 +92,14 @@ Here are a few of my latest data-driven projects that highlight my analytical sk
 ### 📦 [Amazon Charback Analysis](./Amazon_Charback_Analysis/)
 - A project focused on analyzing Amazon customer feedback data to identify common patterns in product returns and improve customer service strategies.
 
+### 🏋️‍♂️ [Weightlifting in Europe Analysis](./Analysis%20Europe%20Weightlifting/)
+- Using statistical analysis to uncover performance trends in weightlifting, offering insight into training regimens and competition results.
+
 ### 🚔 [Analyzing Crime in Los Angeles](./Analyzing_Crime_in_Los_Angeles/)
 - Investigating crime rates and their relation to socio-economic factors in Los Angeles, providing actionable insights for public safety and urban planning.
 
 ### 🧑‍🎓 [Analyzing Students' Mental Health](./Analyzing_Students_Mental_Health/)
 - Data analysis project exploring how academic stress, peer relationships, and lifestyle impact students' mental health across various demographics.
-
-### 🏋️‍♂️ [Data Analysis Halterofilia](./Data_Analysis_Halterofilia/)
-- Using statistical analysis to uncover performance trends in weightlifting, offering insight into training regimens and competition results.
 
 ### 🏫 [Exploring NYC Public School Test Result Scores](./Exploring_NYC_Public_School_Test_Result_Scores/)
 - Analyzing the correlation between socio-economic factors and public school test scores in New York City.
@@ -110,6 +110,9 @@ Here are a few of my latest data-driven projects that highlight my analytical sk
 ### 🎥 [Investigating Netflix Movies](./Investigating_Netflix_Movies/)
 - Analyzing the Netflix movie database to find the most popular genres, directors, and actors, and uncover trends in user ratings.
 
+### 📊 [Sales Analysis - Shopping Centers](./Sales%20Analysis%20of%20Shopping%20Centers/)
+- Understanding sales trends in shopping malls 
+
 ### 🏆 [Visualizing the History of Nobel Prize](./Visualizing_the_History_of_Nobel_Prize/)
 - Creating interactive visualizations to explore the history and trends of Nobel Prize laureates across disciplines.
 
@@ -119,7 +122,4 @@ Here are a few of my latest data-driven projects that highlight my analytical sk
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavierPradal&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-## 📬 Let's Work Together!
-Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/javierpradalperez/)** or shoot me an email at **[pradaljavier@gmail.com](mailto:pradaljavier@gmail.com)**. Whether it's a collaboration, consultation, or just a chat about data – I’m always happy to connect! 🙌
 
