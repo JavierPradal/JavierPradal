@@ -97,11 +97,3 @@
 |🎥 [Netflix Movies Investigation](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Investigating_Netflix_movies)) | Trends and patterns in Netflix movies |
 |📈 [Sales Analysis - Shopping Centers](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Sales%20analysis%20of%20shopping%20centers) | Understanding sales trends in shopping malls |
 |🏆 [Nobel Prize Data Visualization](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Visualizing%20the%20History%20of%20Nobel%20Prize) | Analyzing the history of Nobel Prize winners |
-
-## 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/JavierPradal">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavierPradal&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
