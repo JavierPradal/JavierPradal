@@ -94,7 +94,9 @@
 | 🏋️‍♂️ [Weightlifting in Europe](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Analysis%20Europe%20weightlifting) | Visualizing weightlifting performance data | Python |
 | 🏫 [NYC Public School Test Scores](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores) | Analyzing educational performance in NYC | Python|
 | 🏢 [Idealista Housing Market](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Idealista%20Analysis) | Real estate data analysis from Idealista | Python, SQL |
+| ⚽ [Men's and Women's Soccer Matches](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches) | Statistical hypothesis testing to compare performance metrics in men's and women's football| Python|
+| 🏍️ [Motorcicle Sales](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Analyzing%20Motorcycle%20Part%20Sales) | Analyzing Motorcycle Part Sales | SQL |
 | 🎥 [Netflix Movies Investigation](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Investigating_Netflix_movies) | Trends and patterns in Netflix movies | Python |
-| 📈 [Sales Analysis - Shopping Centers](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Sales%20analysis%20of%20shopping%20centers) | Understanding sales trends in shopping malls | Python|
-| 🏆 [Nobel Prize Data Visualization](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Visualizing%20the%20History | Analyzing the history of Nobel Prize winners | Python |
+| 🛍️ [Sales Analysis - Shopping Centers](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Sales%20analysis%20of%20shopping%20centers) | Understanding sales trends in shopping malls | Python|
+| 🏆 [Nobel Prize Data Visualization](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Visualizing%20the%20History) | Analyzing the history of Nobel Prize winners | Python |
 
