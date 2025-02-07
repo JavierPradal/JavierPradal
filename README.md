@@ -74,8 +74,7 @@
 &emsp;
 ## 🚀 About Me
 - **📊 Data Analyst** with a strong background in sales and finance at **Decathlon** and **IKEA**, driving business decisions with over **€1M** in revenue.
-- **🎮 Game Development** enthusiast with experience in **Java** and **Unity**, building interactive solutions that combine creativity with technical skills.
-- **📐 Interior Designer & Architect** (Graduated from Elisava), bridging design with data-driven insights to create optimal spaces.
+- **📐 Interior Designer** (Graduated from Elisava), bridging design with data-driven insights to create optimal spaces.
 - **🧑‍🏫 Self-taught in Finance and Markets**, constantly learning and applying trend analysis and financial strategies to real-world scenarios.
 
 ## 🔥 Current Focus
