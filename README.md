@@ -87,7 +87,7 @@
 
 | 📂 Project Name  | 🔍 Description | 🛠️ Tech Used |
 |-----------------|----------------|-------------|
-| 🏦 Marketing Analytics for Fintech| Data Analysis and Predictive Model for Deposit Acquisition|Python, SQL|
+| 🏦 [Marketing Analytics for Fintech](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Marketing%20Analytics%20for%20Fintech)| Data Analysis and Predictive Model for Deposit Acquisition|Python, SQL|
 | 🏠 [Airbnb Analysis in Madrid](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Airbnb%20Analysis%20in%20Madrid) | Data-driven insights on Airbnb listings in Madrid | Python|
 | 📦 [Amazon Chargeback Analysis](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Amazon%20Charback%20Analysis) | Analyzing chargebacks and fraud detection | SQL, Looker |
 | 🚔 [Crime Analysis in LA](https://github.com/JavierPradal/DataAnalytics-projects/tree/main/Analyzing%20Crime%20in%20Los%20Angeles) | Exploring crime trends in Los Angeles | Python|
