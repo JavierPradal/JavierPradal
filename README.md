@@ -75,8 +75,9 @@
 &emsp;
 ## 🚀 About Me
 - **📊 Data Analyst** with a strong background in sales and finance at **Decathlon** and **IKEA**, driving business decisions with over **€1M** in revenue.
-- **📐 Interior Designer** (Graduated from Elisava), bridging design with data-driven insights to create optimal spaces.
 - **🧑‍🏫 Self-taught in Finance and Markets**, constantly learning and applying trend analysis and financial strategies to real-world scenarios.
+- **📐 Interior Designer** (Graduated from Elisava), bridging design with data-driven insights to create optimal spaces.
+
 
 ## 🔥 Current Focus
 - **Data Science & Machine Learning**: Crafting predictive models and statistical insights to drive smarter business decisions. 
